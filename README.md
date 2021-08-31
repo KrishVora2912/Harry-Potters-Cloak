@@ -10,6 +10,7 @@ The final result is achieved using bitwise operators with the masks produced usi
 
 
 
+
 https://user-images.githubusercontent.com/59104356/131535324-61dd4549-5c4c-4fa8-9fdd-956527380120.mov
 
 
